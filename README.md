@@ -31,4 +31,4 @@ Went back to master branch, merged with rename-data-files branch to incorporate 
 
 Deleted brance **rename-data-files** with code `git branch -d rename-data-files`
 
-
+In the end the data files ended up in the pracs-sp21-GA1 folder instead of the Data folder. 
